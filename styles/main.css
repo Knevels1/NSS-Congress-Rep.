@@ -1,0 +1,32 @@
+body{
+    background-color: green;
+}
+
+.pageHeader {
+    text-align: center;
+}
+.Image {
+    text-align: center;
+}
+.districtInfo {
+    text-align: center;
+    font-size: 23px;
+    border: dotted tomato;
+    padding: 1.2em;
+    margin: 0.5em;
+}
+.districtAffiliation {
+    font-size: 27px;
+    text-align: end;
+    border: dotted tomato;
+    padding: 0em;
+    margin: 0.5em;
+    width: 65%
+}
+.districtCommittee {
+    text-align: center;
+    font-size: 20px;
+    border: dotted tomato;
+    justify-content: right;
+
+}
